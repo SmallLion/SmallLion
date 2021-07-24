@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SmallLion
-- 👀 I’m interested in Game deeloping, Blogging and Story writing
+- 👀 I’m interested in Game developing, Blogging and Story writing
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on unity
 
