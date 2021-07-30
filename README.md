@@ -15,7 +15,8 @@ I managed to create an online presence with my [Blog](https://mr-unity-buddy.has
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="50" height="50"/> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50"/> <img 
-src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html logo" width="50" height="50"/>
+src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html logo" width="50" height="50"/> <img 
+src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-svg-vector.svg" alt="html logo" width="50" height="50"/>
 
 
 ---
