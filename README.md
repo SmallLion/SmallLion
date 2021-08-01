@@ -35,27 +35,11 @@ src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-svg-vector.svg" 
 
 ---
 
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallLion&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmallLion&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a new bluffy fluffy game!
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on 3D games
+- 💬 Ask me about Unity, Python or anything!
+- 📫 Reach me via email - boobagames123@gmail.com
+- 🏚 Hogwartz house: Griffindor
+- - ⚡ Fun fact: Love coffee
 -->
