@@ -41,5 +41,5 @@ src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-svg-vector.svg" 
 - 💬 Ask me about Unity, Python or anything!
 - 📫 Reach me via email - boobagames123@gmail.com
 - 🏚 Hogwartz house: Griffindor
-- - ⚡ Fun fact: Love coffee
+- ⚡ Fun fact: Love coffee
 -->
