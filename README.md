@@ -12,11 +12,11 @@ I managed to create an online presence with my [Blog](https://mr-unity-buddy.has
 ---
 
 🧰 Toolbox
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%20Sharp-white?&style=for-the-badge&logo=c%20sharp&logoColor=239120)
-![CPP](https://img.shields.io/badge/-C%20PP-white?&style=for-the-badge&logo=c%20plus%20plus&logoColor=239120)
 ![Unity](https://img.shields.io/badge/-Unity-000000?&style=for-the-badge&logo=unity&logoColor=white)
 
 
