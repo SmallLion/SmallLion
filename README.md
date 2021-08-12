@@ -33,7 +33,7 @@ I managed to create an online presence with my [Blog](https://mr-unity-buddy.has
 - [Build An Emotion Based Movie Recommendation System Using Python](https://mr-unity-buddy.hashnode.dev/build-an-emotion-based-movie-recommendation-system-using-python)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more articles](https://catalins.tech)
+▶ [...more articles](https://mr-unity-buddy.hashnode.dev/)
 
 ---
 
@@ -44,4 +44,4 @@ I managed to create an online presence with my [Blog](https://mr-unity-buddy.has
 - 📫 Reach me via email - boobagames123@gmail.com
 - 🏚 Hogwartz house: Griffindor
 - ⚡ Fun fact: Python + Unity == 💙�
-
+- 
