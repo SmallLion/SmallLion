@@ -1,9 +1,11 @@
-### Hi there , I am SmallLion!
+### Hi there ,
 
 ---
 Howdy! I'm Mr. Unity Buddy, a technical writer and also a Game Designer, Content creator, and a Mad Developer. I love writing articles and tutorials that help people to solve problems and learn about new things.
 
+
 Everywhere I carry my laptop, I make sure to carry my small toolbox with it. That small but cute toolbox contains programming languages like Python, C#, CSS, HTML, and other things such as Unity, VS Code, PyCharm, Notion, Github, Dropbox so on. Also, it includes some Games as well 🎮
+
 ---
 
 🧰 Toolbox
