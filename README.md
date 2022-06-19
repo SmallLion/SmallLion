@@ -1,14 +1,9 @@
 ### Hi there , I am SmallLion!
 
 ---
+Howdy! I'm Mr. Unity Buddy, a technical writer and also a Game Designer, Content creator, and a Mad Developer. I love writing articles and tutorials that help people to solve problems and learn about new things.
 
-
-A Game developer highly passinated about Hyper-causal games. Experienced with the technologies listed in the **toolbox** below.
-
-I create tech content, mostly about Python, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
-
-I managed to create an online presence with my [Blog](https://mr-unity-buddy.hashnode.dev/), which is accessed by more than 3000 people monthly. Looking forward to reaching and helping more people by sharing my knowledge 🌐
-
+Everywhere I carry my laptop, I make sure to carry my small toolbox with it. That small but cute toolbox contains programming languages like Python, C#, CSS, HTML, and other things such as Unity, VS Code, PyCharm, Notion, Github, Dropbox so on. Also, it includes some Games as well 🎮
 ---
 
 🧰 Toolbox
@@ -43,5 +38,4 @@ I managed to create an online presence with my [Blog](https://mr-unity-buddy.has
 - 💬 Ask me about Unity, Python or anything!
 - 📫 Reach me via email - boobagames123@gmail.com
 - 🏚 Hogwartz house: Griffindor
-- ⚡ Fun fact: Python + Unity == 💙�
-- 
+
