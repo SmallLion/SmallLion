@@ -1,5 +1,5 @@
 # Howdy! I'm Mr. Unity Buddy
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654067879277/DGk8iUBVr.png"  width="1000" height="320">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654067879277/DGk8iUBVr.png"  width="1000" height="300">
 
 
 Howdy! I'm Mr. Unity Buddy, a technical writer and also a Game Designer, Content creator, and a Mad Developer. I love writing articles and tutorials that help people to solve problems and learn about new things.
