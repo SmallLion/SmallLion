@@ -11,10 +11,23 @@ Everywhere I carry my laptop, I make sure to carry my small toolbox with it. Tha
 🧰 Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%20Sharp-white?&style=for-the-badge&logo=c%20sharp&logoColor=239120)
 ![Unity](https://img.shields.io/badge/-Unity-000000?&style=for-the-badge&logo=unity&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=Notion&logoColor=black)
+![Dropbox](https://img.shields.io/badge/dropbox-0061FF?&style=for-the-badge&logo=dropbox&logoColor=black)
+![Github](https://img.shields.io/badge/github-181719?&style=for-the-badge&logo=github&logoColor=white)
+![Gitbook](https://img.shields.io/badge/gitbook-0061FF?&style=for-the-badge&logo=gitbook&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-black?&style=for-the-badge&logo=vercel&logoColor=cyan)
+![Pandas](https://img.shields.io/badge/pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-013243?&style=for-the-badge&logo=numpy&logoColor=cyan)
+![Canva](https://img.shields.io/badge/canva-00C4CC?&style=for-the-badge&logo=canva&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=black)
+
 
 
 
