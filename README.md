@@ -42,6 +42,9 @@ Everywhere I carry my laptop, I make sure to carry my small toolbox with it. Tha
 - DEV Community Profile → [@UnityBuddy](https://dev.to/unitybuddy)
 
 
+![image](https://github.com/SmallLion/SmallLion/assets/78954171/325be882-f74d-44ad-b4d9-b35d571cf5d6)
+
+
 <!-- 
 
 ### Github Stats 📊
